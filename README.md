@@ -13,13 +13,10 @@ Hello, I'm Vipul Patil! 👋<br>🔭 Currently working on: Implementing DevOps p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1VIP1786&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1VIP1786&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1VIP1786&icon=5&color=7)](https://visitcount.itsvg.in)
